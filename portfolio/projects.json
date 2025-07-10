@@ -1,0 +1,80 @@
+[
+    {
+      "title": "DevBox",
+      "description": "Uma central de ferramentas para desenvolvedores, incluindo formatter de JSON, gerador de UUID, conversor de timestamp e mais funcionalidades em breve.",
+      "description_en": "A toolbox for developers featuring a JSON formatter, UUID generator, timestamp converter, and more comming soon.",
+      "github": "https://github.com/Elismar13/devbox",
+      "image": "devbox.png",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "TypeScript",
+        "Vite"
+      ]
+    },
+    {
+      "title": "ASMonitor",
+      "description": "Aplicação CLI para monitoramento em tempo real de informações do sistema, com interface visual no terminal e recursos de navegação.",
+      "description_en": "CLI application for real-time system monitoring, featuring a terminal-based visual interface and navigation features.",
+      "github": "https://github.com/Elismar13/ASMonitor",
+      "image": "asmonitor.png",
+      "technologies": [
+        "Node.js",
+        "Blessed",
+        "CLI"
+      ]
+    },
+    {
+      "title": "Gethub",
+      "description": "Aplicativo mobile que permite consultar informações de usuários e repositórios públicos no GitHub, com interface responsiva e busca integrada.",
+      "description_en": "Mobile app to browse public user profiles and repositories on GitHub, featuring a responsive UI and integrated search.",
+      "github": "https://github.com/Matheus-0/GetHub",
+      "image": "gethub.png",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "REST API"
+      ]
+    },
+    {
+      "title": "inHome",
+      "description": "Aplicação web para monitoramento e controle de ambientes, integrando frontend interativo e backend para automação de sensores.",
+      "description_en": "Web application for monitoring and controlling environments, integrating an interactive frontend with a backend for sensor automation.",
+      "github": "https://github.com/Elismar13/inHome_backend",
+      "image": "inhome.png",
+      "technologies": [
+        "React",
+        "Java",
+        "REST API",
+        "Spring Boot"
+      ]
+    },
+    {
+      "title": "Transaction balance",
+      "description": "Sistema de controle financeiro com arquitetura orientada a eventos (CQRS), utilizando Apache Kafka, Quarkus e persistência reativa.",
+      "description_en": "Financial control system with event-driven architecture (CQRS), using Apache Kafka, Quarkus, and reactive persistence.",
+      "github": "https://github.com/Elismar13/transaction-balance",
+      "image": "transaction.png",
+      "technologies": [
+        "Java",
+        "Quarkus",
+        "CQRS",
+        "Apache Kafka",
+        "Reactive"
+      ]
+    },
+    {
+      "title": "OpenSnake",
+      "description": "Jogo da cobrinha desenvolvido do zero com C++ e OpenGL, utilizando lógica de colisão e renderização em tempo real sem motor gráfico.",
+      "description_en": "Snake game built from scratch using C++ and OpenGL, featuring real-time rendering and collision logic without a game engine.",
+      "github": "https://github.com/Elismar13/OpenSnake",
+      "image": "opensnake.png",
+      "technologies": [
+        "C++",
+        "OpenGL",
+        "GLUT",
+        "Game Loop"
+      ]
+    }
+  ]
+  

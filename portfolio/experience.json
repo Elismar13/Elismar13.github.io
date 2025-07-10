@@ -1,0 +1,38 @@
+[
+    {
+        "type": "work",
+        "range": "06/2021 - Present",
+        "title": "Analista de Sistemas",
+        "title_en": "Systems Analyst",
+        "institution": "Accenture",
+        "description": "Atuei em projetos críticos nos setores automotivo e financeiro, desenvolvendo microsserviços escaláveis com Java (Spring Boot, Quarkus) e arquitetura baseada em eventos. Destaque para a modernização de sistemas bancários legados, com redução de 70% no esforço de manutenção e APIs com 25% de ganho em performance. Também contribuí para a implementação de pipelines CI/CD com Jenkins e automação de testes com JUnit e Selenium.",
+        "description_en": "Worked on critical projects in the automotive and financial sectors, developing scalable microservices using Java (Spring Boot, Quarkus) and event-driven architecture. Highlights include modernizing legacy banking systems (70% reduction in maintenance effort, 25% faster APIs), implementing CI/CD pipelines with Jenkins, and test automation with JUnit and Selenium."
+    },
+    {
+        "type": "work",
+        "range": "04/2020 - 04/2021",
+        "title": "Desenvolvedor Full-Stack",
+        "title_en": "Full-Stack Developer",
+        "institution": "Assert Campina Grande",
+        "description": "Desenvolvi um sistema completo de monitoramento em tempo real para uma fábrica de calçados, utilizando Node.js no backend e React no frontend. O sistema coletava dados de mais de 200 sensores distribuídos na linha de produção, gerando painéis de controle e relatórios que aumentaram em 25% a eficiência da equipe de qualidade e reduziram em 30% o retrabalho operacional.",
+        "description_en": "Developed a complete real-time monitoring system for a shoe factory, using Node.js on the backend and React on the frontend. The system collected data from over 200 sensors across the production line, generating dashboards and reports that improved quality team efficiency by 25% and reduced rework by 30%."
+    },
+    {
+        "type": "education",
+        "range": "02/2019 - 02/2024",
+        "title": "Bacharel em Engenharia de Computação",
+        "title_en": "Bachelor of Computer Engineering",
+        "institution": "IFPB Campina Grande",
+        "description": "Formação sólida em algoritmos, estruturas de dados, sistemas embarcados e desenvolvimento de software. Participei de pesquisas com publicações nas áreas de visão computacional e sistemas embarcados. O Trabalho de Conclusão de Curso envolveu análise de dados e aplicação de inteligência artificial.",
+        "description_en": "Solid background in algorithms, data structures, embedded systems, and software development. Participated in academic research with publications in computer vision and embedded systems. Final thesis involved data analysis and the application of artificial intelligence."
+    },
+    {
+        "type": "education",
+        "range": "04/2016 - 12/2018",
+        "title": "Técnico em Telecomunicações",
+        "title_en": "Telecommunications Technician",
+        "institution": "Escola Técnica Redentorista",
+        "description": "Curso técnico com foco em redes, sistemas de transmissão e integração de soluções de comunicação. A base adquirida foi essencial para entender a infraestrutura de sistemas distribuídos e comunicação entre aplicações.",
+        "description_en": "Technical course focused on networking, transmission systems, and communication solution integration. This foundation was key to understanding distributed systems infrastructure and application communication."
+    }
+]
