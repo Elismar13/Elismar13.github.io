@@ -2,8 +2,8 @@
     {
         "type": "work",
         "range": "06/2021 - Present",
-        "title": "Analista de Sistemas",
-        "title_en": "Systems Analyst",
+        "title": "Desenvolvedor Full-Stack",
+        "title_en": "Full-Stack Developer",
         "institution": "Accenture",
         "description": "Atuei em projetos críticos nos setores automotivo e financeiro, desenvolvendo microsserviços escaláveis com Java (Spring Boot, Quarkus) e arquitetura baseada em eventos. Destaque para a modernização de sistemas bancários legados, com redução de 70% no esforço de manutenção e APIs com 25% de ganho em performance. Também contribuí para a implementação de pipelines CI/CD com Jenkins e automação de testes com JUnit e Selenium.",
         "description_en": "Worked on critical projects in the automotive and financial sectors, developing scalable microservices using Java (Spring Boot, Quarkus) and event-driven architecture. Highlights include modernizing legacy banking systems (70% reduction in maintenance effort, 25% faster APIs), implementing CI/CD pipelines with Jenkins, and test automation with JUnit and Selenium."
