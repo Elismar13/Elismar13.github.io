@@ -242,6 +242,12 @@ body {
 .meme-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }
 .meme-card { background: var(--dark); border: 3px solid var(--cyan); overflow: hidden; }
 .meme-card img { width: 100%; height: 180px; object-fit: cover; display: block; }
+@media (max-width: 768px) {
+  .meme-card img {
+    height: auto;
+    object-fit: contain; /* opcional, evita corte */
+  }
+}
 .meme-caption { font-family: 'Special Elite', monospace; font-size: 1rem; padding: 8px; text-align: center; color: var(--pink); background: var(--black); }
 
 .player-box { display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background: var(--dark); border: 3px solid var(--cyan); padding: 20px; }
